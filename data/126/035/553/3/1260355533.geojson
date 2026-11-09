@@ -55,7 +55,7 @@
         "wk:page":"Tseel"
     },
     "wof:country":"MN",
-    "wof:geomhash":"ca76f2fda26e875b9c635ba25c6587a9",
+    "wof:geomhash":"7839baa52a5ed567d69a4ea9fce42fdf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -81,5 +81,5 @@
     105.31768999999998,
     48.4538
 ],
-  "geometry": {"coordinates":[105.31768999999998,48.4538],"type":"Point"}
+  "geometry": {"coordinates":[105.31769,48.4538],"type":"Point"}
 }

@@ -52,7 +52,7 @@
         "gn:id":2029197
     },
     "wof:country":"MN",
-    "wof:geomhash":"3b9d40e372cc6e021b57f61d98c57707",
+    "wof:geomhash":"dfa95329c8167a48bbed694f823eff65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     104.0,
     43.2
 ],
-  "geometry": {"coordinates":[104.0,43.2],"type":"Point"}
+  "geometry": {"coordinates":[104,43.2],"type":"Point"}
 }

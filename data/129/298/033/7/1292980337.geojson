@@ -82,7 +82,7 @@
         "wk:page":"Alag-Erdene%2C_Kh%C3%B6vsg%C3%B6l"
     },
     "wof:country":"MN",
-    "wof:geomhash":"439dfa61ee36c8ea1f491650d9e132d2",
+    "wof:geomhash":"fc4e8981fc6859114d80dac1eaf31310",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -108,5 +108,5 @@
     100.04306,
     50.12139000000001
 ],
-  "geometry": {"coordinates":[100.04306,50.12139000000001],"type":"Point"}
+  "geometry": {"coordinates":[100.04306,50.12139],"type":"Point"}
 }

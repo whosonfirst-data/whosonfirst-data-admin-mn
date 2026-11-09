@@ -86,7 +86,7 @@
         "wk:page":"Ulaankhus"
     },
     "wof:country":"MN",
-    "wof:geomhash":"3e857f5030c163e14ad5e4ed818f2988",
+    "wof:geomhash":"bcabd68214cd900e8fe783c4ca419825",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -112,5 +112,5 @@
     89.43798000000002,
     49.04372
 ],
-  "geometry": {"coordinates":[89.43798000000002,49.04372],"type":"Point"}
+  "geometry": {"coordinates":[89.43798,49.04372],"type":"Point"}
 }

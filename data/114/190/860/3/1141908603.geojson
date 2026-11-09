@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"MN",
     "wof:created":1499130939,
-    "wof:geomhash":"e313923394bb14bc4092cbadae95814f",
+    "wof:geomhash":"705a49b08f82b850b93da015827a8dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,5 +150,5 @@
     106.35003535871141,
     49.61669883126956
 ],
-  "geometry": {"coordinates":[106.35003535871141,49.61669883126956],"type":"Point"}
+  "geometry": {"coordinates":[106.350035,49.616699],"type":"Point"}
 }

@@ -74,7 +74,7 @@
         "wk:page":"Bayan-Agt"
     },
     "wof:country":"MN",
-    "wof:geomhash":"635447aa6466cb76270728ecfb622e20",
+    "wof:geomhash":"70a0f250f38f0999b74675cbce2737c2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,5 +100,5 @@
     102.08925,
     49.04192000000001
 ],
-  "geometry": {"coordinates":[102.08925000000001,49.04192000000001],"type":"Point"}
+  "geometry": {"coordinates":[102.08925,49.04192],"type":"Point"}
 }

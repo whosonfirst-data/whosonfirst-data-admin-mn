@@ -44,7 +44,7 @@
     },
     "wof:country":"MN",
     "wof:created":1459010191,
-    "wof:geomhash":"fb9614e8e39dc8172e8866479d69af84",
+    "wof:geomhash":"4e121390ff02a0ceeccff9a719c23f98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -69,5 +69,5 @@
     106.14556,
     50.3086955
 ],
-  "geometry": {"coordinates":[106.14556,50.3086955],"type":"Point"}
+  "geometry": {"coordinates":[106.14556,50.308696],"type":"Point"}
 }
