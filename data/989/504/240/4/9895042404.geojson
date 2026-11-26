@@ -1,0 +1,74 @@
+{
+  "id": 9895042404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"100.82788,44.54595,100.82788,44.54595",
+    "geom:latitude":44.54595,
+    "geom:longitude":100.82788,
+    "iso:country":"MN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2030851: name \"Hatansuudal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2030851"
+        },
+        {
+            "citation":"GeoNames populated place 2030851: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2030851"
+        },
+        {
+            "citation":"GeoNames populated place 2030851: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2030851"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092033811 (Bayanlig), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439,
+        85674723,
+        102191569,
+        1092033811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2030851
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"69d09c41db0b4d658455307ca7899d0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092033811,
+            "locality_id":9895042404,
+            "region_id":85674723
+        }
+    ],
+    "wof:id":9895042404,
+    "wof:lastmodified":1795735248,
+    "wof:name":"Hatansuudal",
+    "wof:parent_id":1092033811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    100.82788,
+    44.54595,
+    100.82788,
+    44.54595
+],
+  "geometry": {"coordinates":[100.82788,44.54595],"type":"Point"}
+}

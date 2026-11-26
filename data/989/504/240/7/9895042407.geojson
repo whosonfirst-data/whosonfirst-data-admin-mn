@@ -1,0 +1,74 @@
+{
+  "id": 9895042407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"106.88751,48.02148,106.88751,48.02148",
+    "geom:latitude":48.02148,
+    "geom:longitude":106.88751,
+    "iso:country":"MN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 7648756: name \"Chingeltei\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/7648756"
+        },
+        {
+            "citation":"GeoNames populated place 7648756: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/7648756"
+        },
+        {
+            "citation":"GeoNames populated place 7648756: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/7648756"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092036017 (Chingeltei), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439,
+        85674783,
+        102191569,
+        1092036017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648756
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"c7923e042f84f638b7f5e445b0c18573",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092036017,
+            "locality_id":9895042407,
+            "region_id":85674783
+        }
+    ],
+    "wof:id":9895042407,
+    "wof:lastmodified":1795735248,
+    "wof:name":"Chingeltei",
+    "wof:parent_id":1092036017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    106.88751,
+    48.02148,
+    106.88751,
+    48.02148
+],
+  "geometry": {"coordinates":[106.88751,48.02148],"type":"Point"}
+}
