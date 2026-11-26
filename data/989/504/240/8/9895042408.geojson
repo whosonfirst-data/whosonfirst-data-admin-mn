@@ -1,0 +1,74 @@
+{
+  "id": 9895042408,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"102.25509,46.86043,102.25509,46.86043",
+    "geom:latitude":46.86043,
+    "geom:longitude":102.25509,
+    "iso:country":"MN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11983573: name \"Bat-Ulziit Sum\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11983573"
+        },
+        {
+            "citation":"GeoNames populated place 11983573: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11983573"
+        },
+        {
+            "citation":"GeoNames populated place 11983573: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11983573"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092032607 (Bat-O'lzii), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439,
+        85674765,
+        102191569,
+        1092032607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11983573
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"e3591847071273c85b126adf274705c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092032607,
+            "locality_id":9895042408,
+            "region_id":85674765
+        }
+    ],
+    "wof:id":9895042408,
+    "wof:lastmodified":1795735248,
+    "wof:name":"Bat-Ulziit Sum",
+    "wof:parent_id":1092032607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    102.25509,
+    46.86043,
+    102.25509,
+    46.86043
+],
+  "geometry": {"coordinates":[102.25509,46.86043],"type":"Point"}
+}

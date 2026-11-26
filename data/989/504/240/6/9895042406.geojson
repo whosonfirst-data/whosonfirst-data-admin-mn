@@ -1,0 +1,74 @@
+{
+  "id": 9895042406,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"108.62061,46.10558,108.62061,46.10558",
+    "geom:latitude":46.10558,
+    "geom:longitude":108.62061,
+    "iso:country":"MN",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6997302: name \"Shiveegov\u012d\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6997302"
+        },
+        {
+            "citation":"GeoNames populated place 6997302: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6997302"
+        },
+        {
+            "citation":"GeoNames populated place 6997302: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6997302"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092041295 (Shiveegovi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632439,
+        85674779,
+        102191569,
+        1092041295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997302
+    },
+    "wof:country":"MN",
+    "wof:geomhash":"dd7d0099affe441ce30d7ff1949b2051",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632439,
+            "county_id":1092041295,
+            "locality_id":9895042406,
+            "region_id":85674779
+        }
+    ],
+    "wof:id":9895042406,
+    "wof:lastmodified":1795735248,
+    "wof:name":"Shiveegov\u012d",
+    "wof:parent_id":1092041295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mn",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    108.62061,
+    46.10558,
+    108.62061,
+    46.10558
+],
+  "geometry": {"coordinates":[108.62061,46.10558],"type":"Point"}
+}
